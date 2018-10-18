@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test V.1</string>
+    <string name="MainPage">主頁</string>
+    <string name="LivingRoom">客廳</string>
+    <string name="Bedroom">房間</string>
+</resources>
